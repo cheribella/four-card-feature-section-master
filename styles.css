@@ -199,13 +199,3 @@ p:not(.introduction-subtitle) {
     font-size: 2.5rem;
   }
 }
-
-@media (min-width: 968px) and (max-width: 1133px) {
-  .red-orange > .card[data-border-color="red"] > .card-img {
-    margin-top: 0.5rem;
-  }
-
-  .red-orange > .card[data-border-color="red"] {
-    padding-bottom: 6rem;
-  }
-}
