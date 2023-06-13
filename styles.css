@@ -155,6 +155,10 @@ p:not(.introduction-subtitle) {
   z-index: 999;
 }
 
+.card-title {
+  font-size: 1.3rem;
+}
+
 .card[data-border-color="cyan"] {
   border-top: 0.3rem solid var(--clr-cyan);
 }
@@ -179,7 +183,7 @@ p:not(.introduction-subtitle) {
 /*for larger screen sizes*/
 @media (min-width: 968px) {
   .introduction-description {
-    max-width: 60%;
+    max-width: 50%;
   }
 
   .four-card-section {
