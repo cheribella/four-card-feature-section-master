@@ -152,7 +152,7 @@ p:not(.introduction-subtitle) {
 
   box-shadow: 2px 15px 30px -6px rgba(76, 78, 97, 0.2);
 
-  overflow: hidden;
+  overflow: hidden; /*to avoid image from overflowing, iguess*/
   z-index: 999;
 }
 
