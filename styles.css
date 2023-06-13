@@ -183,7 +183,7 @@ p:not(.introduction-subtitle) {
 /*for larger screen sizes*/
 @media (min-width: 968px) {
   .introduction-description {
-    max-width: 50%;
+    max-width: 48%;
   }
 
   .four-card-section {
